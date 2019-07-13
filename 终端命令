@@ -1,7 +1,7 @@
 终端命令格式
     command [-options] [parameter]  
         command   :  命令名，相应功能的英文单词或单词的缩写     eg: ls/pwd/clear
-        -options  :  选项，可用来对命令进行控制，也可以省略     eg: 
+        -options  :  选项，可用来对命令进行控制，也可以省略     eg: rm -r aaa(文件夹)
         parameter :  传给命令的参数，可以是零个、一个或者多个   eg: touch 123.txt
 
 常用Linux命令的基本使用：
